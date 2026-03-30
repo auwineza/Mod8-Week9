@@ -1,0 +1,5 @@
+I completed this assignment independently and did not discuss it with others.
+
+I did not use any libraries beyond those provided in the course materials.
+
+I used ChatGPT as a learning aid to help debug code, understand Naïve Bayes concepts, and structure parts of the implementation. All submitted work reflects my understanding of the material.
